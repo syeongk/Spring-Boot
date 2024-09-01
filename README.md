@@ -39,6 +39,9 @@
 ## 4. REST 서비스
 두 앱 간(클라이언트, 서버) 통신을 구현할 수 있다. (+ 백엔드 간, 모바일 앱과 백엔드 간)
 
+![2023  12  5  - 207](https://github.com/user-attachments/assets/b34e1809-d4d1-4506-9591-2783777bcdb8)
+컨트롤러 액션이 직접 반환한 데이터가 필요하기 때문에 뷰 리졸버가 필요 없다.
+
 ### REST Endpoint 구현
 - @ResponseBody
 - @RestController
