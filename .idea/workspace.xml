@@ -4,79 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="979f78cf-b601-4938-9d8b-5b61dd36e206" name="변경" comment=".">
-      <change afterPath="$PROJECT_DIR$/ch7_ex1/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch7_ex1/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch7_ex1/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch7_ex1/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch7_ex1/src/main/java/org/spring/ch7_ex1/Ch7Ex1Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch7_ex1/src/main/java/org/spring/ch7_ex1/MainController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch7_ex1/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch7_ex1/src/main/resources/static/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch7_ex1/src/test/java/org/spring/ch7_ex1/Ch7Ex1ApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch7_ex1/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch7_ex1/target/classes/org/spring/ch7_ex1/Ch7Ex1Application.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch7_ex1/target/classes/org/spring/ch7_ex1/MainController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch7_ex1/target/classes/static/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch7_ex1/target/test-classes/org/spring/ch7_ex1/Ch7Ex1ApplicationTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch8_ex1/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch8_ex1/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch8_ex1/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch8_ex1/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch8_ex1/src/main/java/org/spring/ch8ex1/Ch8Ex1Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch8_ex1/src/main/java/org/spring/ch8ex1/MainController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch8_ex1/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch8_ex1/src/main/resources/templates/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch8_ex1/src/test/java/org/spring/ch8ex1/Ch8Ex1ApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch8_ex1/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch8_ex1/target/classes/org/spring/ch8ex1/Ch8Ex1Application.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch8_ex1/target/classes/org/spring/ch8ex1/MainController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch8_ex1/target/classes/static/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch8_ex1/target/classes/templates/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch8_ex2/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch8_ex2/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch8_ex2/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch8_ex2/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch8_ex2/src/main/java/org/spring/ch8ex2/Ch8Ex2Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch8_ex2/src/main/java/org/spring/ch8ex2/MainController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch8_ex2/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch8_ex2/src/main/resources/templates/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch8_ex2/src/test/java/org/spring/ch8ex2/Ch8Ex2ApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch8_ex2/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch8_ex2/target/classes/org/spring/ch8ex2/Ch8Ex2Application.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch8_ex2/target/classes/org/spring/ch8ex2/MainController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch8_ex2/target/classes/templates/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch8_ex3/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch8_ex3/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch8_ex3/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch8_ex3/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch8_ex3/src/main/java/org/spring/ch8ex3/Ch8Ex3Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch8_ex3/src/main/java/org/spring/ch8ex3/MainController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch8_ex3/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch8_ex3/src/main/resources/templates/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch8_ex3/src/test/java/org/spring/ch8ex3/Ch8Ex3ApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch8_ex3/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch8_ex3/target/classes/org/spring/ch8ex3/Ch8Ex3Application.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch8_ex3/target/classes/org/spring/ch8ex3/MainController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch8_ex3/target/classes/templates/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch8_ex4/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch8_ex4/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch8_ex4/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch8_ex4/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch8_ex4/src/main/java/org/spring/ch8ex4/Ch8Ex4Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch8_ex4/src/main/java/org/spring/ch8ex4/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch8_ex4/src/main/java/org/spring/ch8ex4/ProductService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch8_ex4/src/main/java/org/spring/ch8ex4/ProductsController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch8_ex4/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch8_ex4/src/main/resources/templates/products.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch8_ex4/src/test/java/org/spring/ch8ex4/Ch8Ex4ApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch8_ex4/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch8_ex4/target/classes/org/spring/ch8ex4/Ch8Ex4Application.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch8_ex4/target/classes/org/spring/ch8ex4/Product.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch8_ex4/target/classes/org/spring/ch8ex4/ProductService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch8_ex4/target/classes/org/spring/ch8ex4/ProductsController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch8_ex4/target/classes/templates/products.html" afterDir="false" />
-    </list>
+    <list default="true" id="979f78cf-b601-4938-9d8b-5b61dd36e206" name="변경" comment="." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,22 +24,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/mm/Desktop/sbexamples",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/mm/Desktop/sbexamples&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -135,7 +63,7 @@
       <updated>1725163909230</updated>
       <workItem from="1725163910446" duration="438000" />
       <workItem from="1725166114609" duration="267000" />
-      <workItem from="1725166428071" duration="679000" />
+      <workItem from="1725166428071" duration="984000" />
     </task>
     <servers />
   </component>
