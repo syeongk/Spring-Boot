@@ -16,9 +16,17 @@
   - @PathVariable
 - HTTP 요청 본문
 
-## HTTP 메소드
+### HTTP 메소드
 - GET
 - POST
 - PUT
 - PATCH
 - DELETE
+
+
+## 3. 웹 스코프
+### 요청 스코프
+
+### 세션 스코프
+
+### 애플리케이션 스코프
