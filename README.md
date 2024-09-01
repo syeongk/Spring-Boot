@@ -35,3 +35,15 @@
 ### @ApplicationScope
 애플리케이션 스코프 : 모든 클라이언트 요청이 애플리케이션 스코프 빈을 공유한다.
 -> 대신 영속성 계층을 사용
+
+## 4. REST 서비스
+두 앱 간(클라이언트, 서버) 통신을 구현할 수 있다. (+ 백엔드 간, 모바일 앱과 백엔드 간)
+
+### REST Endpoint 구현
+- @ResponseBody
+- @RestController
+
+### EndPoint 호출
+HTTP 요청이 완료되면 HTTP 응답 세부 정보(HTTP 응답 본문, 헤더, 상태 등) 확인 가능
+- Postman
+- cURL
