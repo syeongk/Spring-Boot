@@ -50,3 +50,7 @@
 HTTP 요청이 완료되면 HTTP 응답 세부 정보(HTTP 응답 본문, 헤더, 상태 등) 확인 가능
 - Postman
 - cURL
+
+### HTTP 응답
+- 응답 본문에 객체 전송
+- 응답 본문, 헤더, 상태 설정 : ResponseEntity 클래스
